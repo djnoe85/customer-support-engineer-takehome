@@ -35,7 +35,10 @@ class BlogPostTemplate extends React.Component {
             "thumbnailUrl": "${
               post.frontmatter.thumbnail
                 ? isBrowser() &&
-                  window.location.href + "" + post.frontmatter.thumbnail
+                  window.location.protocol +
+                    "//" +
+                    window.location.hostname +
+                    post.frontmatter.thumbnail.publicURL
                 : "https://pbs.twimg.com/profile_images/718097917874212865/6qsGC2He.jpg"
             }",
             "datePublished": "${post.frontmatter.date}",
@@ -119,7 +122,6 @@ export const pageQuery = graphql`
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
-      id
       excerpt(pruneLength: 160)
       html
       frontmatter {
@@ -129,7 +131,7 @@ export const pageQuery = graphql`
         tags
         section
         thumbnail {
-          id
+          publicURL
         }
         type
         author
