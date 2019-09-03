@@ -1,8 +1,8 @@
 ---
-author: ""
+author: "Unknown Author"
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
-section: comedy
+section: Food
 tags:
   - eggs
 thumbnail: salty_egg.jpg

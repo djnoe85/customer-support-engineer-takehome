@@ -5,7 +5,7 @@ description: Homage to Hofstadter
 section: Metadata
 tags:
   - metadata
-thumbnail:
+thumbnail: metadata.png
 title: An exploration of metadata
 type: BlogPosting
 ---
