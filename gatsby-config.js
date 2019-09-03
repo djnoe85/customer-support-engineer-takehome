@@ -10,6 +10,13 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-parsely-analytics`,
+      options: {
+        apikey: "parsely-hw-daniel.netlify.com",
+        enableInDevelopment: false // send page views when NODE_ENV !== prod
+      }
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
