@@ -13,7 +13,7 @@ module.exports = {
       resolve: `gatsby-plugin-parsely-analytics`,
       options: {
         apikey: "parsely-hw-daniel.netlify.com",
-        enableInDevelopment: false // send page views when NODE_ENV !== prod
+        enableInDevelopment: true // send page views when NODE_ENV !== prod
       }
     },
     {
