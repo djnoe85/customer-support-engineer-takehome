@@ -7,7 +7,7 @@ tags:
   - metadata
 thumbnail: metadata.png
 title: An exploration of metadata
-type: BlogPosting
+type: NewsArticle
 url: https://parsely-hw-daniel.netlify.com/meta-metadata/
 ---
 
