@@ -76,7 +76,6 @@ class BlogPostTemplate extends React.Component {
             }}
           />
           <footer>
-          <script id="parsely-cfg" src="//cdn.parsely.com/keys/parsely-hw-daniel.netlify.com/p.js"></script>
             <Bio />
           </footer>
         </article>
