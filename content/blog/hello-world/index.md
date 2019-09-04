@@ -7,7 +7,7 @@ tags:
   - eggs
 thumbnail: salty_egg.jpg
 title: Hello World - Salty Eggs
-type: BlogPosting
+type: NewsArticle
 ---
 
 This is my first post on my new fake blog! How exciting!
