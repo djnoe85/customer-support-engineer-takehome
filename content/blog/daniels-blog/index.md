@@ -8,7 +8,7 @@ tags:
 thumbnail: daniel-noe.jpg
 title: My Experience With Parsely
 type: NewsArticle
-url: https://parsely-hw-daniel.netlify.com/meta-metadata/
+url: https://parsely-hw-daniel.netlify.com/daniels-blog/
 ---
 
 Metadata is data that provides information about other data.
