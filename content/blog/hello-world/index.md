@@ -8,6 +8,7 @@ tags:
 thumbnail: salty_egg.jpg
 title: Hello World - Salty Eggs
 type: NewsArticle
+url: https://parsely-hw-daniel.netlify.com/hello-world/
 ---
 
 This is my first post on my new fake blog! How exciting!

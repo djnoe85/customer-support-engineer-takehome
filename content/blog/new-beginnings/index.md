@@ -8,6 +8,7 @@ tags:
 thumbnail: deer-horse.jpg
 title: New Beginnings in Alphabet City
 type: NewsArticle
+url: https://parsely-hw-daniel.netlify.com/new-beginnings/
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
