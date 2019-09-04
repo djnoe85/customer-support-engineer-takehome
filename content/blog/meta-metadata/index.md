@@ -8,6 +8,7 @@ tags:
 thumbnail: metadata.png
 title: An exploration of metadata
 type: BlogPosting
+url: https://parsely-hw-daniel.netlify.com/meta-metadata/
 ---
 
 Metadata is data that provides information about other data.
