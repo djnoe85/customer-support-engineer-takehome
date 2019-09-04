@@ -1,12 +1,12 @@
 ---
-author: "Keith's #1 Fan"  
-date: "2015-05-06T23:46:37.121Z"
+author: Keith's Numba 1 Fan
+date: "2019-08-12T15:04:10.000Z"
 description: Keith makes money
 section: Drama
 tags:
   - keith
 thumbnail: keithmoney.png
-title: Keith dot Money 💸
+title: Keith dot Money
 type: NewsArticle
 url: https://parsely-hw-daniel.netlify.com/keith-money/
 ---
