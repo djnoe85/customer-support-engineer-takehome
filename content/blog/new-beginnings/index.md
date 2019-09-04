@@ -1,6 +1,6 @@
 ---
-date: "2019-08-12T15:04:10.000Z"
 author: Daniel Noe
+date: "2019-08-12T15:04:10.000Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 section: Politics
 tags:
