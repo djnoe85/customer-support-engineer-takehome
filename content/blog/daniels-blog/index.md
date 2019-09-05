@@ -23,7 +23,21 @@ I finally open the dashboard and much to my lament there is literally no metadat
 
 The first thing I tried doing was going to the gatsby-config.js file and changing the Gatsby/Parsely plugin from "False" to "True." That didn't seem to work so I evenutally changed it back. 
 
-I spent a lot of time reading the integration documentation and everything I could about metadata here: https://www.parse.ly/help/integration/basic/. I also got
+I spent a lot of time reading the integration documentation and everything I could about metadata and JSON-LD tags here: https://www.parse.ly/help/integration/basic/. I also got a hint from Annelise and checked out the metadata of some live Parsely blogs. After searching my text editor for "application/ld+json" (found in the blog-post.js file), I went and found the index.md file for each blog and rearranged in specific order all the metadata and started filling in the empty fields and also changed all the blogs to @type = NewsArticle. I made myself a litte cheat sheet based off the information in blog-post.js (below) to help me keep track and make sure I wasn't missing anything:
+@context = schema.org
+@type = type
+Headline = title
+Creator = author
+URL = N/A
+ThumbnailURL = thumbnail
+DatePublished = date
+ArticleSection = section
+Keywords = tags
+
+Ever since then the strangest thing has been happening. Only one of the blog posts has been showing up in the Parsely dashboard for me: https://parsely-hw-daniel.netlify.com/meta-metadata/. None of the others appear to even be getting pageviews as far as Parsely is concerned.
+
+I have tried tackling this in a number of ways. I tried using the troubleshooting tool on the website
+
 
 
 
