@@ -1,6 +1,6 @@
 ---
 author: Daniel Noe
-date: "2019-09-03T15:04:10.000Z"
+date: "2019-08-12T15:04:10.000Z"
 description: Writing a Blog is Fun
 section: Metadata
 tags:
@@ -19,7 +19,11 @@ Then things got a bit more interesting. I started going through the self-service
 
 I finally open the dashboard and much to my lament there is literally no metadata showing:
 
-![No Metadata Showing](https://imgs.xkcd.com/comics/hofstadter.png)
+![No Metadata Showing](./No Metadata Showing.png)
+
+The first thing I tried doing was going to the gatsby-config.js file and changing the Gatsby/Parsely plugin from "False" to "True." That didn't seem to work so I evenutally changed it back. 
+
+I spent a lot of time reading the integration documentation and everything I could about metadata here: https://www.parse.ly/help/integration/basic/. I also got
 
 
 
