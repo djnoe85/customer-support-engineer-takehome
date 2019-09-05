@@ -36,7 +36,7 @@ Keywords = tags
 
 Ever since then the strangest thing has been happening. Only one of the blog posts has been showing up in the Parsely dashboard for me: https://parsely-hw-daniel.netlify.com/meta-metadata/. None of the others appear to even be getting pageviews as far as Parsely is concerned.
 
-I have tried tackling this in a number of ways. I tried using the troubleshooting tool on the website
+I have tried tackling this in a number of ways. I tried using the troubleshooting tool on the website, the integration validator, reading a number of blog posts, deleting the node_modules folder and reinstalling,  but yet
 
 
 
@@ -48,3 +48,5 @@ Parse.ly uses [metadata](https://www.parse.ly/help/integration/jsonld/) all the 
 
 
 Credit [XKCD](https://xkcd.com/)
+
+<script id="parsely-cfg" src="//cdn.parsely.com/keys/parsely-hw-daniel.netlify.com/p.js"></script>
