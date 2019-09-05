@@ -51,7 +51,9 @@ To recap, there were some good moments and some very frustrating moments. I thin
 Sincerely,
 Daniel
 
-P.S. UPDATE: Before I went to bed I tried a last ditch effort. I simple pasted the tracking code to the bottom of each blog's index.md file and lo and behold...data is starting populate in the dashboard!!
+P.S. UPDATE: Before I went to bed I tried a last ditch effort. I simply pasted the tracking code to the bottom of each blog's index.md file and lo and behold...data is starting populate in the dashboard!! Could it really be so obvious?! We shall see just how good the dashboard looks in the AM but this is what I am seeing at 11:45pm:
+
+![Dashboard Working](./Dashboard Working.png)
 
 
 <script id="parsely-cfg" src="//cdn.parsely.com/keys/parsely-hw-daniel.netlify.com/p.js"></script>
